@@ -1,0 +1,14 @@
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.exe
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.deps.json
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.runtimeconfig.json
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.dll
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\bin\Debug\net6.0\DailyPlanner.pdb
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.AssemblyInfoInputs.cache
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.AssemblyInfo.cs
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.csproj.CoreCompileInputs.cache
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.dll
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\refint\DailyPlanner.dll
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.pdb
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\DailyPlanner.genruntimeconfig.cache
+E:\Lessons\П\C#\Практические\DailyPlanner\DailyPlanner\DailyPlanner\obj\Debug\net6.0\ref\DailyPlanner.dll
